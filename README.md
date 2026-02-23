@@ -1,3 +1,3 @@
 # soneium
-#strium
+# strium
 # startale App
